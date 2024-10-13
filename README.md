@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on school projects that involve web application development
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/sharoncyt/">LinkedIn</a>
+
 <!--
 **scyt01/scyt01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
