@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me
-💻 Working on my own [portfolio website](https://sharon-chua.vercel.app/) as part of the GovTech Girls In Tech Summer Mentorship Programme Mentee Project<br>
-🛡️ Contributing to Code Clone Vulnerability Analysis for public open source code projects in GitHub as a Research Asssistant under SMU Centre for Research on Intelligent Software Engineering RISE<br>
+🛡️ Contributing to Code Clone Vulnerability Analysis for public open source code projects in GitHub as a Research Assistant under SMU Centre for Research on Intelligent Software Engineering RISE<br>
 🌱 Learning about AWS Cloud Services in preparation for Certified Cloud Practitioner (CCP) certification<br>
-🎓 Fresh Graduate from SMU Business Analytics
+🎓 Fresh Business Analytics Graduate from SMU
 
 <div align="center">
 <a href="https://www.linkedin.com/in/sharoncyt/"><img alt="LinkedIn" src="linkedin.png" height="30" ></a>&nbsp;&nbsp;&nbsp;&nbsp;
