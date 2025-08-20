@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me
-🛡️ Contributing to Code Clone Vulnerability Analysis for public open source code projects in GitHub as a Research Assistant under SMU Centre for Research on Intelligent Software Engineering RISE<br>
 🌱 Learning about AWS Cloud Services in preparation for Certified Cloud Practitioner (CCP) certification<br>
 🎓 Fresh Business Analytics Graduate from SMU
 
